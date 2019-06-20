@@ -1,0 +1,11 @@
+Version 1.0.0
+	Release
+
+Version 1.1.0
+	Fixed plugin Give - Donation
+	Shortcode 'Blogger' is added to HotSpot
+
+Version 1.2
+	Fixed:
+	All plugins updated
+	Style elements
